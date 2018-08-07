@@ -1,3 +1,2 @@
 # drag-demo
-# plugin init
-# You can click https://nicksun666.club see the demo!
+# You can click ### here[https://nicksun666.club] see the demo!
