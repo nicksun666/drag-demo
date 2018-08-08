@@ -1,2 +1,2 @@
 # drag-demo
-### [here](https://nicksun666.github.io/drag-demo/) You can click see the demo!
+### [here](https://nicksun666.github.io/drag.js/) You can click see the demo!
